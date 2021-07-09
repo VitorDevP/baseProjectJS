@@ -1,0 +1,30 @@
+{
+  "name": "baseprojectjs",
+  "version": "1.0.0",
+  "description": "base project with lint and package builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorDevP/baseProjectJS.git"
+  },
+  "keywords": [
+    "base",
+    "project",
+    "js",
+    "javascript"
+  ],
+  "author": "v rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorDevP/baseProjectJS/issues"
+  },
+  "homepage": "https://github.com/VitorDevP/baseProjectJS#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
